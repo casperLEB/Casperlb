@@ -1,8 +1,6 @@
 # Casperlb
-A tool for downloading all termux packages
-git clone https://github.com/casperLEB/Casperlb
+##A tool for downloading all termux packages
 
+git clone https://github.com/casperLEB/Casperlb
 cd script.py
 python script.py
-
-and bye 
