@@ -1,13 +1,13 @@
 import os
 os.system("clear")
 print("♪♥♪♥♪♥♪♥♪♥")
-print(" __________________
+print(" 
  / __/ _` / __| '_ \ / _ \ '__|
 | (_| (_| \__ \ |_) |  __/ |
  \___\__,_|___/ .__/ \___|_|
                 |_| ")
 
-print("♥♪♥♪♥♪♥♪♥")
+print("♥♪♥♪♥♪♥♪♥♪♥")
 
 import os
 os.system("pkg install update -y")
