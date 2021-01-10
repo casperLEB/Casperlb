@@ -1,18 +1,18 @@
 import os
 os.system("clear")
 print("♪♥♪♥♪♥♪♥♪♥")
-print("/ __/ _` / __| '_ \ / _ \ '__|")
+print(" / __/ _` / __| '_ \ / _ \ '__|")
 print("| (_| (_| \__ \ |_) |  __/ |")
-print("\___\__,_|___/ .__/ \___|_|")
+print(" \___\__,_|___/ .__/ \___|_|")
 print("               |_| ")
 
 print("♥♪♥♪♥♪♥♪♥♪♥")
 
 import os
-os.system("pkg install update -y")
+os.system("pkg update -y")
 
 import os
-os.system("pkg install update -y")
+os.system("pkg update -y")
 
 
 import os
