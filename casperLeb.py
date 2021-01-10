@@ -7,8 +7,7 @@ print("               |_| ")
 
 print("♥♪♥♪♥♪♥♪♥♪♥")
 
-import os
-os.system("pkg update -y")
+
 
 import os
 os.system("pkg update -y")
