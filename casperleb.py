@@ -1,5 +1,4 @@
-import os
-os.system("clear")
+
 print("♪♥♪♥♪♥♪♥♪♥")
 print(" / __/ _` / __| '_ \ / _ \ '__|")
 print("| (_| (_| \__ \|_) |  __/ |")
