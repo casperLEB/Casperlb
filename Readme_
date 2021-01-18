@@ -3,4 +3,4 @@
 
 git clone https://github.com/casperLEB/Casperlb
 cd script.py
-python script.py
+python casper_leB.py
